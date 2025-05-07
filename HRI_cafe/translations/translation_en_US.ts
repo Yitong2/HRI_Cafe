@@ -31,9 +31,10 @@
     <context>
         <name>behavior_1/behavior.xar:/Say (3)</name>
         <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>OK</source>
             <comment>Text</comment>
-            <translation type="obsolete">OK</translation>
+            <translation type="unfinished">OK</translation>
         </message>
     </context>
     <context>
@@ -48,17 +49,19 @@
     <context>
         <name>behavior_1/behavior.xar:/Say (5)</name>
         <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>OK</source>
             <comment>Text</comment>
-            <translation type="obsolete">OK</translation>
+            <translation type="unfinished">OK</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/Say (6)</name>
         <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>OK</source>
             <comment>Text</comment>
-            <translation type="obsolete">OK</translation>
+            <translation type="unfinished">OK</translation>
         </message>
     </context>
     <context>
